@@ -1,0 +1,4 @@
+baseURL = 'https://yasukt.github.io/'
+languageCode = 'en-us'
+title = 'yasukt'
+theme = 'ananke'
